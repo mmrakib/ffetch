@@ -19,4 +19,3 @@ The following is a list of all data sources supported or where support is in dev
 | Australian Securities and Investment Commission (ASIC) | [asic.gov.au](https://asic.gov.au) | Free. | No. |
 | European Central Bank (ECB) | [data.ecb.europa.eu](https://data.ecb.europa.eu) | Free. | Yes. |
 | Eurostat | [ec.europa.eu](https://ec.europa.eu) | Free. | Yes. |
-ASE
