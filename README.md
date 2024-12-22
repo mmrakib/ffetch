@@ -1,6 +1,6 @@
 `ffetch` is a tool for fetching/parsing financial, economic and geographical data from various sources. It provides a unified interface for fetching from disparate datasets and parses raw data into accessible dataframe objects. It also provides functionality for data transformation and cleaning.
 
-The following is a list of all data sources supported or where support is in development. Where an API key is required, it must be set as an environment variable of the specified name.
+The following is a list of all data sources supported or where support is in development. If an API key is required, it must be set as an environment variable of the specified name.
 
 | Name | URL | Cost | API Key Required? | Environment Variable |
 | --- | --- | --- | --- | --- |
