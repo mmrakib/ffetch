@@ -1,0 +1,996 @@
+Fetching all categories and series (excluding DISCONTINUED):
+Category: Money, Banking, & Finance
+    Category: Interest Rates
+        Category: AMERIBOR Benchmark Rates
+            Series (excluding DISCONTINUED):
+                - AMBOR30: 30-Day Moving Average AMERIBOR Benchmark Interest Rate
+                - AMBOR30T: AMERIBOR Term-30 Derived Interest Rate Index
+                - AMBOR90: 90-Day Moving Average AMERIBOR Benchmark Interest Rate
+                - AMBOR90T: AMERIBOR Term-90 Derived Interest Rate Index
+                - AMERIBOR: Overnight Unsecured AMERIBOR Benchmark Interest Rate
+        Category: Automobile Loan Rates
+            Series (excluding DISCONTINUED):
+                - RIFLPBCIANM60NM: Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 60 Month Loan
+                - RIFLPBCIANM72NM: Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 72 Month Loan
+                - TERMCBAUTO48NS: Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 48 Month Loan
+        Category: Bankers Acceptance Rate
+            Series (excluding DISCONTINUED):
+        Category: Certificates of Deposit
+            Series (excluding DISCONTINUED):
+                - TY48MCD: Treasury Yield: 48 Month CD <100M
+                - TYRCA48MCD: Treasury Yield: Rate Cap Adjusted: 48 Month CD <100M
+        Category: Commercial Paper
+            Series (excluding DISCONTINUED):
+                - CPF1M: 30-Day AA Financial Commercial Paper Interest Rate
+                - CPF2M: 60-Day AA Financial Commercial Paper Interest Rate
+                - CPF3M: 90-Day AA Financial Commercial Paper Interest Rate
+                - CPN1M: 30-Day AA Nonfinancial Commercial Paper Interest Rate
+                - CPN2M: 60-Day AA Nonfinancial Commercial Paper Interest Rate
+                - CPN3M: 90-Day AA Nonfinancial Commercial Paper Interest Rate
+                - DCPF1M: 30-Day AA Financial Commercial Paper Interest Rate
+                - DCPF2M: 60-Day AA Financial Commercial Paper Interest Rate
+                - DCPF3M: 90-Day AA Financial Commercial Paper Interest Rate
+                - DCPN2M: 60-Day AA Nonfinancial Commercial Paper Interest Rate
+                - DCPN30: 30-Day AA Nonfinancial Commercial Paper Interest Rate
+                - DCPN3M: 90-Day AA Nonfinancial Commercial Paper Interest Rate
+                - RIFSPPAAAD01NB: Overnight AA Asset-Backed Commercial Paper Interest Rate
+                - RIFSPPAAAD07NB: 7-Day AA Asset-Backed Commercial Paper Interest Rate
+                - RIFSPPAAAD15NB: 15-Day AA Asset-Backed Commercial Paper Interest Rate
+                - RIFSPPAAAD30NB: 30-Day AA Asset-Backed Commercial Paper Interest Rate
+                - RIFSPPAAAD60NB: 60-Day AA Asset-Backed Commercial Paper Interest Rate
+                - RIFSPPAAAD90NB: 90-Day AA Asset-Backed Commercial Paper Interest Rate
+                - RIFSPPFAAD01NB: Overnight AA Financial Commercial Paper Interest Rate
+                - RIFSPPFAAD07NB: 7-Day AA Financial Commercial Paper Interest Rate
+                - RIFSPPFAAD15NB: 15-Day AA Financial Commercial Paper Interest Rate
+                - RIFSPPFAAD30NA: 30-Day AA Financial Commercial Paper Interest Rate
+                - RIFSPPFAAD30NB: 30-Day AA Financial Commercial Paper Interest Rate
+                - RIFSPPFAAD60NA: 60-Day AA Financial Commercial Paper Interest Rate
+                - RIFSPPFAAD60NB: 60-Day AA Financial Commercial Paper Interest Rate
+                - RIFSPPFAAD90NA: 90-Day AA Financial Commercial Paper Interest Rate
+                - RIFSPPFAAD90NB: 90-Day AA Financial Commercial Paper Interest Rate
+                - RIFSPPNA2P2D01NB: Overnight A2/P2 Nonfinancial Commercial Paper Interest Rate
+                - RIFSPPNA2P2D07NB: 7-Day A2/P2 Nonfinancial Commercial Paper Interest Rate
+                - RIFSPPNA2P2D15NB: 15-Day A2/P2 Nonfinancial Commercial Paper Interest Rate
+                - RIFSPPNA2P2D30NB: 30-Day A2/P2 Nonfinancial Commercial Paper Interest Rate
+                - RIFSPPNA2P2D60NB: 60-Day A2/P2 Nonfinancial Commercial Paper Interest Rate
+                - RIFSPPNA2P2D90NB: 90-Day A2/P2 Nonfinancial Commercial Paper Interest Rate
+                - RIFSPPNAAD01NB: Overnight AA Nonfinancial Commercial Paper Interest Rate
+                - RIFSPPNAAD07NB: 7-Day AA Nonfinancial Commercial Paper Interest Rate
+                - RIFSPPNAAD15NB: 15-Day AA Nonfinancial Commercial Paper Interest Rate
+                - RIFSPPNAAD30NA: 30-Day AA Nonfinancial Commercial Paper Interest Rate
+                - RIFSPPNAAD30NB: 30-Day AA Nonfinancial Commercial Paper Interest Rate
+                - RIFSPPNAAD60NA: 60-Day AA Nonfinancial Commercial Paper Interest Rate
+                - RIFSPPNAAD60NB: 60-Day AA Nonfinancial Commercial Paper Interest Rate
+                - RIFSPPNAAD90NA: 90-Day AA Nonfinancial Commercial Paper Interest Rate
+                - RIFSPPNAAD90NB: 90-Day AA Nonfinancial Commercial Paper Interest Rate
+                - WCPF1M: 30-Day AA Financial Commercial Paper Interest Rate
+                - WCPF2M: 60-Day AA Financial Commercial Paper Interest Rate
+                - WCPF3M: 90-Day AA Financial Commercial Paper Interest Rate
+                - WCPN1M: 30-Day AA Nonfinancial Commercial Paper Interest Rate
+                - WCPN2M: 60-Day AA Nonfinancial Commercial Paper Interest Rate
+                - WCPN3M: 90-Day AA Nonfinancial Commercial Paper Interest Rate
+        Category: Corporate Bonds
+            Series (excluding DISCONTINUED):
+                - AAA: Moody's Seasoned Aaa Corporate Bond Yield
+                - BAA: Moody's Seasoned Baa Corporate Bond Yield
+                - BAMLC0A0CM: ICE BofA US Corporate Index Option-Adjusted Spread
+                - BAMLC0A0CMEY: ICE BofA US Corporate Index Effective Yield
+                - BAMLC0A0CMSYTW: ICE BofA US Corporate Index Semi-Annual Yield to Worst
+                - BAMLC0A1CAAA: ICE BofA AAA US Corporate Index Option-Adjusted Spread
+                - BAMLC0A1CAAAEY: ICE BofA AAA US Corporate Index Effective Yield
+                - BAMLC0A1CAAASYTW: ICE BofA AAA US Corporate Index Semi-Annual Yield to Worst
+                - BAMLC0A2CAA: ICE BofA AA US Corporate Index Option-Adjusted Spread
+                - BAMLC0A2CAAEY: ICE BofA AA US Corporate Index Effective Yield
+                - BAMLC0A2CAASYTW: ICE BofA AA US Corporate Index Semi-Annual Yield to Worst
+                - BAMLC0A3CA: ICE BofA Single-A US Corporate Index Option-Adjusted Spread
+                - BAMLC0A3CAEY: ICE BofA Single-A US Corporate Index Effective Yield
+                - BAMLC0A3CASYTW: ICE BofA Single-A US Corporate Index Semi-Annual Yield to Worst
+                - BAMLC0A4CBBB: ICE BofA BBB US Corporate Index Option-Adjusted Spread
+                - BAMLC0A4CBBBEY: ICE BofA BBB US Corporate Index Effective Yield
+                - BAMLC0A4CBBBSYTW: ICE BofA BBB US Corporate Index Semi-Annual Yield to Worst
+                - BAMLC1A0C13Y: ICE BofA 1-3 Year US Corporate Index Option-Adjusted Spread
+                - BAMLC1A0C13YEY: ICE BofA 1-3 Year US Corporate Index Effective Yield
+                - BAMLC1A0C13YSYTW: ICE BofA 1-3 Year US Corporate Index Semi-Annual Yield to Worst
+                - BAMLC2A0C35Y: ICE BofA 3-5 Year US Corporate Index Option-Adjusted Spread
+                - BAMLC2A0C35YEY: ICE BofA 3-5 Year US Corporate Index Effective Yield
+                - BAMLC2A0C35YSYTW: ICE BofA 3-5 Year US Corporate Index Semi-Annual Yield to Worst
+                - BAMLC3A0C57Y: ICE BofA 5-7 Year US Corporate Index Option-Adjusted Spread
+                - BAMLC3A0C57YEY: ICE BofA 5-7 Year US Corporate Index Effective Yield
+                - BAMLC3A0C57YSYTW: ICE BofA 5-7 Year US Corporate Index Semi-Annual Yield to Worst
+                - BAMLC4A0C710Y: ICE BofA 7-10 Year US Corporate Index Option-Adjusted Spread
+                - BAMLC4A0C710YEY: ICE BofA 7-10 Year US Corporate Index Effective Yield
+                - BAMLC4A0C710YSYTW: ICE BofA 7-10 Year US Corporate Index Semi-Annual Yield to Worst
+                - BAMLC7A0C1015Y: ICE BofA 10-15 Year US Corporate Index Option-Adjusted Spread
+                - BAMLC7A0C1015YEY: ICE BofA 10-15 Year US Corporate Index Effective Yield
+                - BAMLC7A0C1015YSYTW: ICE BofA 10-15 Year US Corporate Index Semi-Annual Yield to Worst
+                - BAMLC8A0C15PY: ICE BofA 15+ Year US Corporate Index Option-Adjusted Spread
+                - BAMLC8A0C15PYEY: ICE BofA 15+ Year US Corporate Index Effective Yield
+                - BAMLC8A0C15PYSYTW: ICE BofA 15+ Year US Corporate Index Semi-Annual Yield to Worst
+                - BAMLEM1BRRAAA2ACRPIEY: ICE BofA AAA-A Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEM1BRRAAA2ACRPIOAS: ICE BofA AAA-A Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEM1BRRAAA2ACRPISYTW: ICE BofA AAA-A Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEM1RAAA2ALCRPIUSEY: ICE BofA AAA-A US Emerging Markets Liquid Corporate Plus Index Effective Yield
+                - BAMLEM1RAAA2ALCRPIUSOAS: ICE BofA AAA-A US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread
+                - BAMLEM1RAAA2ALCRPIUSSYTW: ICE BofA AAA-A US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEM2BRRBBBCRPIEY: ICE BofA BBB Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEM2BRRBBBCRPIOAS: ICE BofA BBB Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEM2BRRBBBCRPISYTW: ICE BofA BBB Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEM2RBBBLCRPIUSEY: ICE BofA BBB US Emerging Markets Liquid Corporate Plus Index Effective Yield
+                - BAMLEM2RBBBLCRPIUSOAS: ICE BofA BBB US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread
+                - BAMLEM2RBBBLCRPIUSSYTW: ICE BofA BBB US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEM3BRRBBCRPIEY: ICE BofA BB Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEM3BRRBBCRPIOAS: ICE BofA BB Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEM3BRRBBCRPISYTW: ICE BofA BB Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEM3RBBLCRPIUSEY: ICE BofA BB US Emerging Markets Liquid Corporate Plus Index Effective Yield
+                - BAMLEM3RBBLCRPIUSOAS: ICE BofA BB US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread
+                - BAMLEM3RBBLCRPIUSSYTW: ICE BofA BB US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEM4BRRBLCRPIEY: ICE BofA B & Lower Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEM4BRRBLCRPIOAS: ICE BofA B & Lower Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEM4BRRBLCRPISYTW: ICE BofA B & Lower Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEM4RBLLCRPIUSEY: ICE BofA B & Lower US Emerging Markets Liquid Corporate Plus Index Effective Yield
+                - BAMLEM4RBLLCRPIUSOAS: ICE BofA B & Lower US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread
+                - BAMLEM4RBLLCRPIUSSYTW: ICE BofA B & Lower US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEM5BCOCRPIEY: ICE BofA Crossover Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEM5BCOCRPIOAS: ICE BofA Crossover Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEM5BCOCRPISYTW: ICE BofA Crossover Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMALLCRPIASIAUSEY: ICE BofA Asia US Emerging Markets Liquid Corporate Plus Index Effective Yield
+                - BAMLEMALLCRPIASIAUSOAS: ICE BofA Asia US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMALLCRPIASIAUSSYTW: ICE BofA Asia US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMCBPIEY: ICE BofA Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEMCBPIOAS: ICE BofA Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMCBPISYTW: ICE BofA Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMCLLCRPIUSEY: ICE BofA US Emerging Markets Liquid Corporate Plus Index Effective Yield
+                - BAMLEMCLLCRPIUSOAS: ICE BofA US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMCLLCRPIUSSYTW: ICE BofA US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMEBCRPIEEY: ICE BofA Euro Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEMEBCRPIEOAS: ICE BofA Euro Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMEBCRPIESYTW: ICE BofA Euro Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMELLCRPIEMEAUSEY: ICE BofA EMEA US Emerging Markets Liquid Corporate Plus Index Effective Yield
+                - BAMLEMELLCRPIEMEAUSOAS: ICE BofA EMEA US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMELLCRPIEMEAUSSYTW: ICE BofA EMEA US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMFLFLCRPIUSEY: ICE BofA Financial US Emerging Markets Liquid Corporate Plus Index Effective Yield
+                - BAMLEMFLFLCRPIUSOAS: ICE BofA Financial US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMFLFLCRPIUSSYTW: ICE BofA Financial US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMFSFCRPIEY: ICE BofA Private Sector Financial Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEMFSFCRPIOAS: ICE BofA Private Sector Financial Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMFSFCRPISYTW: ICE BofA Private Sector Financial Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMHBHYCRPIEY: ICE BofA High Yield Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEMHBHYCRPIOAS: ICE BofA High Yield Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMHBHYCRPISYTW: ICE BofA High Yield Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMHGHGLCRPIUSEY: ICE BofA High Grade US Emerging Markets Liquid Corporate Plus Index Effective Yield
+                - BAMLEMHGHGLCRPIUSOAS: ICE BofA High Grade US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMHGHGLCRPIUSSYTW: ICE BofA High Grade US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMHYHYLCRPIUSEY: ICE BofA High Yield US Emerging Markets Liquid Corporate Plus Index Effective Yield
+                - BAMLEMHYHYLCRPIUSOAS: ICE BofA High Yield US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMHYHYLCRPIUSSYTW: ICE BofA High Yield US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMIBHGCRPIEY: ICE BofA High Grade Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEMIBHGCRPIOAS: ICE BofA High Grade Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMIBHGCRPISYTW: ICE BofA High Grade Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMLLLCRPILAUSEY: ICE BofA Latin America US Emerging Markets Liquid Corporate Plus Index Effective Yield
+                - BAMLEMLLLCRPILAUSOAS: ICE BofA Latin America US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMLLLCRPILAUSSYTW: ICE BofA Latin America US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMNFNFLCRPIUSEY: ICE BofA Non-Financial US Emerging Markets Liquid Corporate Plus Index Effective Yield
+                - BAMLEMNFNFLCRPIUSOAS: ICE BofA Non-Financial US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMNFNFLCRPIUSSYTW: ICE BofA Non-Financial US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMNSNFCRPIEY: ICE BofA Non-Financial Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEMNSNFCRPIOAS: ICE BofA Non-Financial Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMNSNFCRPISYTW: ICE BofA Non-Financial Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMPBPUBSICRPIEY: ICE BofA Public Sector Issuers Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEMPBPUBSICRPIOAS: ICE BofA Public Sector Issuers Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMPBPUBSICRPISYTW: ICE BofA Public Sector Issuers Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMPTPRVICRPIEY: ICE BofA Private Sector Issuers Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEMPTPRVICRPIOAS: ICE BofA Private Sector Issuers Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMPTPRVICRPISYTW: ICE BofA Private Sector Issuers Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMPUPUBSLCRPIUSEY: ICE BofA Public Sector Issuers US Emerging Markets Liquid Corporate Plus Index Effective Yield
+                - BAMLEMPUPUBSLCRPIUSOAS: ICE BofA Public Sector Issuers US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMPUPUBSLCRPIUSSYTW: ICE BofA Public Sector Issuers US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMPVPRIVSLCRPIUSEY: ICE BofA Private Sector Issuers US Emerging Markets Liquid Corporate Plus Index Effective Yield
+                - BAMLEMPVPRIVSLCRPIUSOAS: ICE BofA Private Sector Issuers US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMPVPRIVSLCRPIUSSYTW: ICE BofA Private Sector Issuers US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMRACRPIASIAEY: ICE BofA Asia Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEMRACRPIASIAOAS: ICE BofA Asia Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMRACRPIASIASYTW: ICE BofA Asia Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMRECRPIEMEAEY: ICE BofA EMEA Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEMRECRPIEMEAOAS: ICE BofA EMEA Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMRECRPIEMEASYTW: ICE BofA EMEA Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMRLCRPILAEY: ICE BofA Latin America Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEMRLCRPILAOAS: ICE BofA Latin America Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMRLCRPILASYTW: ICE BofA Latin America Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMUBCRPIUSEY: ICE BofA US Emerging Markets Corporate Plus Index Effective Yield
+                - BAMLEMUBCRPIUSOAS: ICE BofA US Emerging Markets Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMUBCRPIUSSYTW: ICE BofA US Emerging Markets Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLEMXOCOLCRPIUSEY: ICE BofA Crossover US Emerging Markets Liquid Corporate Plus Index Effective Yield
+                - BAMLEMXOCOLCRPIUSOAS: ICE BofA Crossover US Emerging Markets Liquid Corporate Plus Index Option-Adjusted Spread
+                - BAMLEMXOCOLCRPIUSSYTW: ICE BofA Crossover US Emerging Markets Liquid Corporate Plus Index Semi-Annual Yield to Worst
+                - BAMLH0A0HYM2: ICE BofA US High Yield Index Option-Adjusted Spread
+                - BAMLH0A0HYM2EY: ICE BofA US High Yield Index Effective Yield
+                - BAMLH0A0HYM2SYTW: ICE BofA US High Yield Index Semi-Annual Yield to Worst
+                - BAMLH0A1HYBB: ICE BofA BB US High Yield Index Option-Adjusted Spread
+                - BAMLH0A1HYBBEY: ICE BofA BB US High Yield Index Effective Yield
+                - BAMLH0A1HYBBSYTW: ICE BofA BB US High Yield Index Semi-Annual Yield to Worst
+                - BAMLH0A2HYB: ICE BofA Single-B US High Yield Index Option-Adjusted Spread
+                - BAMLH0A2HYBEY: ICE BofA Single-B US High Yield Index Effective Yield
+                - BAMLH0A2HYBSYTW: ICE BofA Single-B US High Yield Index Semi-Annual Yield to Worst
+                - BAMLH0A3HYC: ICE BofA CCC & Lower US High Yield Index Option-Adjusted Spread
+                - BAMLH0A3HYCEY: ICE BofA CCC & Lower US High Yield Index Effective Yield
+                - BAMLH0A3HYCSYTW: ICE BofA CCC & Lower US High Yield Index Semi-Annual Yield to Worst
+                - BAMLHE00EHYIEY: ICE BofA Euro High Yield Index Effective Yield
+                - BAMLHE00EHYIOAS: ICE BofA Euro High Yield Index Option-Adjusted Spread
+                - BAMLHE00EHYISYTW: ICE BofA Euro High Yield Index Semi-Annual Yield to Worst
+                - DAAA: Moody's Seasoned Aaa Corporate Bond Yield
+                - DBAA: Moody's Seasoned Baa Corporate Bond Yield
+                - HQMCB100YR: 100-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB10Y6M: 10.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB10YR: 10-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB10YRP: 10-Year High Quality Market (HQM) Corporate Bond Par Yield
+                - HQMCB11Y6M: 11.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB11YR: 11-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB12Y6M: 12.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB12YR: 12-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB13Y6M: 13.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB13YR: 13-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB14Y6M: 14.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB14YR: 14-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB15Y6M: 15.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB15YR: 15-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB16Y6M: 16.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB16YR: 16-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB17Y6M: 17.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB17YR: 17-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB18Y6M: 18.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB18YR: 18-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB19Y6M: 19.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB19YR: 19-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB1Y6M: 1.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB1YR: 1-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB20Y6M: 20.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB20YR: 20-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB21Y6M: 21.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB21YR: 21-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB22Y6M: 22.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB22YR: 22-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB23Y6M: 23.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB23YR: 23-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB24Y6M: 24.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB24YR: 24-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB25Y6M: 25.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB25YR: 25-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB26Y6M: 26.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB26YR: 26-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB27Y6M: 27.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB27YR: 27-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB28Y6M: 28.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB28YR: 28-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB29Y6M: 29.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB29YR: 29-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB2Y6M: 2.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB2YR: 2-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB2YRP: 2-Year High Quality Market (HQM) Corporate Bond Par Yield
+                - HQMCB30Y6M: 30.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB30YR: 30-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB30YRP: 30-Year High Quality Market (HQM) Corporate Bond Par Yield
+                - HQMCB31Y6M: 31.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB31YR: 31-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB32Y6M: 32.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB32YR: 32-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB33Y6M: 33.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB33YR: 33-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB34Y6M: 34.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB34YR: 34-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB35Y6M: 35.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB35YR: 35-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB36Y6M: 36.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB36YR: 36-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB37Y6M: 37.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB37YR: 37-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB38Y6M: 38.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB38YR: 38-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB39Y6M: 39.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB39YR: 39-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB3Y6M: 3.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB3YR: 3-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB40Y6M: 40.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB40YR: 40-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB41Y6M: 41.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB41YR: 41-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB42Y6M: 42.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB42YR: 42-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB43Y6M: 43.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB43YR: 43-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB44Y6M: 44.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB44YR: 44-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB45Y6M: 45.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB45YR: 45-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB46Y6M: 46.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB46YR: 46-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB47Y6M: 47.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB47YR: 47-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB48Y6M: 48.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB48YR: 48-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB49Y6M: 49.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB49YR: 49-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB4Y6M: 4.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB4YR: 4-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB50Y6M: 50.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB50YR: 50-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB51Y6M: 51.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB51YR: 51-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB52Y6M: 52.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB52YR: 52-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB53Y6M: 53.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB53YR: 53-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB54Y6M: 54.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB54YR: 54-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB55Y6M: 55.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB55YR: 55-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB56Y6M: 56.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB56YR: 56-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB57Y6M: 57.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB57YR: 57-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB58Y6M: 58.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB58YR: 58-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB59Y6M: 59.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB59YR: 59-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB5Y6M: 5.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB5YR: 5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB5YRP: 5-Year High Quality Market (HQM) Corporate Bond Par Yield
+                - HQMCB60Y6M: 60.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB60YR: 60-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB61Y6M: 61.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB61YR: 61-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB62Y6M: 62.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB62YR: 62-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB63Y6M: 63.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB63YR: 63-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB64Y6M: 64.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB64YR: 64-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB65Y6M: 65.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB65YR: 65-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB66Y6M: 66.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB66YR: 66-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB67Y6M: 67.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB67YR: 67-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB68Y6M: 68.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB68YR: 68-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB69Y6M: 69.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB69YR: 69-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB6MT: 6 -Month High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB6Y6M: 6.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB6YR: 6-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB70Y6M: 70.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB70YR: 70-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB71Y6M: 71.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB71YR: 71-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB72Y6M: 72.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB72YR: 72-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB73Y6M: 73.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB73YR: 73-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB74Y6M: 74.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB74YR: 74-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB75Y6M: 75.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB75YR: 75-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB76Y6M: 76.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB76YR: 76-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB77Y6M: 77.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB77YR: 77-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB78Y6M: 78.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB78YR: 78-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB79Y6M: 79.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB79YR: 79-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB7Y6M: 7.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB7YR: 7-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB80Y6M: 80.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB80YR: 80-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB81Y6M: 81.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB81YR: 81-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB82Y6M: 82.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB82YR: 82-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB83Y6M: 83.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB83YR: 83-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB84Y6M: 84.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB84YR: 84-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB85Y6M: 85.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB85YR: 85-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB86Y6M: 86.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB86YR: 86-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB87Y6M: 87.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB87YR: 87-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB88Y6M: 88.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB88YR: 88-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB89Y6M: 89.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB89YR: 89-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB8Y6M: 8.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB8YR: 8-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB90Y6M: 90.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB90YR: 90-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB91Y6M: 91.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB91YR: 91-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB92Y6M: 92.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB92YR: 92-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB93Y6M: 93.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB93YR: 93-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB94Y6M: 94.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB94YR: 94-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB95Y6M: 95.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB95YR: 95-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB96Y6M: 96.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB96YR: 96-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB97Y6M: 97.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB97YR: 97-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB98Y6M: 98.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB98YR: 98-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB99Y6M: 99.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB99YR: 99-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB9Y6M: 9.5-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - HQMCB9YR: 9-Year High Quality Market (HQM) Corporate Bond Spot Rate
+                - WAAA: Moody's Seasoned Aaa Corporate Bond Yield
+                - WBAA: Moody's Seasoned Baa Corporate Bond Yield
+        Category: Credit Card Loan Rates
+            Series (excluding DISCONTINUED):
+                - TERMCBCCALLNS: Commercial Bank Interest Rate on Credit Card Plans, All Accounts
+                - TERMCBCCINTNS: Commercial Bank Interest Rate on Credit Card Plans, Accounts Assessed Interest
+        Category: EONIA Rates
+            Series (excluding DISCONTINUED):
+        Category: Euro Short-Term Rate
+            Series (excluding DISCONTINUED):
+                - ECBESTRNUMACTBANKS: Euro Short-Term Rate: Number of Active Banks
+                - ECBESTRNUMTRANS: Euro Short-Term Rate: Number of Transactions
+                - ECBESTRRT25THPCTVOL: Euro Short-Term Rate: Rate at 25th Percentile of Volume
+                - ECBESTRRT75THPCTVOL: Euro Short-Term Rate: Rate at 75th Percentile of Volume
+                - ECBESTRSHRVOL5LRGACTBNK: Euro Short-Term Rate: Share of Volume of the 5 Largest Active Banks
+                - ECBESTRTOTVOL: Euro Short-Term Rate: Total Volume
+                - ECBESTRVOLWGTTRMDMNRT: Euro Short-Term Rate: Volume-Weighted Trimmed Mean Rate
+        Category: Eurodollar Deposits
+            Series (excluding DISCONTINUED):
+        Category: FRB Rates - discount, fed funds, primary credit
+            Series (excluding DISCONTINUED):
+                - DFEDTARL: Federal Funds Target Range - Lower Limit
+                - DFEDTARU: Federal Funds Target Range - Upper Limit
+                - DFF: Federal Funds Effective Rate
+                - DPCREDIT: Discount Window Primary Credit Rate
+                - EFFR: Effective Federal Funds Rate
+                - EFFR1: Effective Federal Funds Rate: 1st Percentile
+                - EFFR25: Effective Federal Funds Rate: 25th Percentile
+                - EFFR75: Effective Federal Funds Rate: 75th Percentile
+                - EFFR99: Effective Federal Funds Rate: 99th Percentile
+                - EFFRVOL: Effective Federal Funds Volume
+                - FEDFUNDS: Federal Funds Effective Rate
+                - FEDTARCTH: FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, High
+                - FEDTARCTHLR: Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, High
+                - FEDTARCTL: FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Low
+                - FEDTARCTLLR: Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Low
+                - FEDTARCTM: FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Midpoint
+                - FEDTARCTMLR: Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Midpoint
+                - FEDTARMD: FOMC Summary of Economic Projections for the Fed Funds Rate, Median
+                - FEDTARMDLR: Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Median
+                - FEDTARRH: FOMC Summary of Economic Projections for the Fed Funds Rate, Range, High
+                - FEDTARRHLR: Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Range, High
+                - FEDTARRL: FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Low
+                - FEDTARRLLR: Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Low
+                - FEDTARRM: FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Midpoint
+                - FEDTARRMLR: Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Midpoint
+                - FF: Federal Funds Effective Rate
+                - FLEXSC: Flexible Rate on Seasonal Credit in Federal Reserve District 8: St. Louis
+                - IORB: Interest Rate on Reserve Balances (IORB Rate)
+                - MPCREDIT: Discount Window Primary Credit Rate
+                - OBFR: Overnight Bank Funding Rate
+                - OBFR1: Overnight Bank Funding Rate: 1st Percentile
+                - OBFR25: Overnight Bank Funding Rate: 25th Percentile
+                - OBFR75: Overnight Bank Funding Rate: 75th Percentile
+                - OBFR99: Overnight Bank Funding Rate: 99th Percentile
+                - OBFRVOL: Overnight Bank Funding Volume
+                - PCREDIT8: Primary Credit Rate - Historical Dates of Changes and Rates for Federal Reserve District 8: St. Louis
+                - RIFSPFFNA: Federal Funds Effective Rate
+                - RIFSPFFNB: Federal Funds Effective Rate
+                - RIFSPFFNBWAW: Federal Funds Effective Rate
+                - RIFSRPF02NA: Discount Window Primary Credit Rate
+                - RIFSRPF02ND: Discount Window Primary Credit Rate
+                - SOFR: Secured Overnight Financing Rate
+                - SOFR1: Secured Overnight Financing Rate: 1st Percentile
+                - SOFR180DAYAVG: 180-Day Average SOFR
+                - SOFR25: Secured Overnight Financing Rate: 25th Percentile
+                - SOFR30DAYAVG: 30-Day Average SOFR
+                - SOFR75: Secured Overnight Financing Rate: 75th Percentile
+                - SOFR90DAYAVG: 90-Day Average SOFR
+                - SOFR99: Secured Overnight Financing Rate: 99th Percentile
+                - SOFRINDEX: SOFR Index
+                - SOFRVOL: Secured Overnight Financing Volume
+                - WPCREDIT: Discount Window Primary Credit Rate
+        Category: Interest Checking Accounts
+            Series (excluding DISCONTINUED):
+        Category: Interest Rate Spreads
+            Series (excluding DISCONTINUED):
+                - AAA10Y: Moody's Seasoned Aaa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity
+                - AAA10YM: Moody's Seasoned Aaa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity
+                - AAAFF: Moody's Seasoned Aaa Corporate Bond Minus Federal Funds Rate
+                - AAAFFM: Moody's Seasoned Aaa Corporate Bond Minus Federal Funds Rate
+                - BAA10Y: Moody's Seasoned Baa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity
+                - BAA10YM: Moody's Seasoned Baa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity
+                - BAAFF: Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate
+                - BAAFFM: Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate
+                - CPFF: 3-Month Commercial Paper Minus Federal Funds Rate
+                - CPFFM: 3-Month Commercial Paper Minus Federal Funds Rate
+                - T10Y2Y: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity
+                - T10Y2YM: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity
+                - T10Y3M: 10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity
+                - T10Y3MM: 10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity
+                - T10YFF: 10-Year Treasury Constant Maturity Minus Federal Funds Rate
+                - T10YFFM: 10-Year Treasury Constant Maturity Minus Federal Funds Rate
+                - T10YIE: 10-Year Breakeven Inflation Rate
+                - T10YIEM: 10-Year Breakeven Inflation Rate
+                - T1YFF: 1-Year Treasury Constant Maturity Minus Federal Funds Rate
+                - T1YFFM: 1-Year Treasury Constant Maturity Minus Federal Funds Rate
+                - T20YIEM: 20-year Breakeven Inflation Rate
+                - T30YIEM: 30-year Breakeven Inflation Rate
+                - T3MFF: 3-Month Treasury Constant Maturity Minus Federal Funds Rate
+                - T3MFFM: 3-Month Treasury Constant Maturity Minus Federal Funds Rate
+                - T5YFF: 5-Year Treasury Constant Maturity Minus Federal Funds Rate
+                - T5YFFM: 5-Year Treasury Constant Maturity Minus Federal Funds Rate
+                - T5YIE: 5-Year Breakeven Inflation Rate
+                - T5YIEM: 5-Year Breakeven Inflation Rate
+                - T5YIFR: 5-Year, 5-Year Forward Inflation Expectation Rate
+                - T5YIFRM: 5-Year, 5-Year Forward Inflation Expectation Rate
+                - T6MFF: 6-Month Treasury Constant Maturity Minus Federal Funds Rate
+                - T6MFFM: 6-Month Treasury Constant Maturity Minus Federal Funds Rate
+                - T7YIEM: 7-year Breakeven Inflation Rate
+                - TB3SMFFM: 3-Month Treasury Bill Minus Federal Funds Rate
+                - TB6SMFFM: 6-Month Treasury Bill Minus Federal Funds Rate
+        Category: Interest Rate Swaps
+            Series (excluding DISCONTINUED):
+        Category: Long-Term Securities
+            Series (excluding DISCONTINUED):
+        Category: Money Market Accounts
+            Series (excluding DISCONTINUED):
+        Category: Mortgage Rates
+            Series (excluding DISCONTINUED):
+                - MORTGAGE15US: 15-Year Fixed Rate Mortgage Average in the United States
+                - MORTGAGE30US: 30-Year Fixed Rate Mortgage Average in the United States
+                - OBMMIC15YF: 15-Year Fixed Rate Conforming Mortgage Index
+                - OBMMIC30YF: 30-Year Fixed Rate Conforming Mortgage Index
+                - OBMMIC30YFLVGT80FB680A699: 30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Between 680 and 699
+                - OBMMIC30YFLVGT80FB700A719: 30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Between 700 and 719
+                - OBMMIC30YFLVGT80FB720A739: 30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Between 720 and 739
+                - OBMMIC30YFLVGT80FGE740: 30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Greater Than 740
+                - OBMMIC30YFLVGT80FLT680: 30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Greater Than 80, FICO Score Less Than 680
+                - OBMMIC30YFLVLE80FB680A699: 30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Between 680 and 699
+                - OBMMIC30YFLVLE80FB700A719: 30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Between 700 and 719
+                - OBMMIC30YFLVLE80FB720A739: 30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Between 720 and 739
+                - OBMMIC30YFLVLE80FGE740: 30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Greater Than 740
+                - OBMMIC30YFLVLE80FLT680: 30-Year Fixed Rate Conforming Mortgage Index: Loan-to-Value Less Than or Equal to 80, FICO Score Less Than 680
+                - OBMMIC30YFNA: 30-Year Fixed Rate Conforming Non-Adjusted Mortgage Index
+                - OBMMIFHA30YF: 30-Year Fixed Rate FHA Mortgage Index
+                - OBMMIJUMBO30YF: 30-Year Fixed Rate Jumbo Mortgage Index
+                - OBMMIUSDA30YF: 30-Year Fixed Rate USDA Mortgage Index
+                - OBMMIVA30YF: 30-Year Fixed Rate Veterans Affairs Mortgage Index
+        Category: Personal Loan Rates
+            Series (excluding DISCONTINUED):
+                - TERMCBPER24NS: Finance Rate on Personal Loans at Commercial Banks, 24 Month Loan
+        Category: Prime Bank Loan Rate
+            Series (excluding DISCONTINUED):
+                - DPRIME: Bank Prime Loan Rate
+                - MPRIME: Bank Prime Loan Rate
+                - PRIME: Bank Prime Loan Rate Changes: Historical Dates of Changes and Rates
+                - RIFSPBLPNA: Bank Prime Loan Rate
+                - RIFSPBLPND: Bank Prime Loan Rate
+                - WPRIME: Bank Prime Loan Rate
+        Category: Saving Accounts
+            Series (excluding DISCONTINUED):
+                - ICNDR: National Rate: Interest Checking
+                - ICNDRRCA: National Rate Plus 75 Bps: Interest Checking
+                - ICNRC: National Rate Cap: Interest Checking
+                - ICTY: Treasury Yield: Interest Checking
+                - ICTYRCA: Treasury Yield: Rate Cap Adjusted: Interest Checking
+                - MMNDR: National Rate: Money Market <100M
+                - MMNDRRCA: National Rate Plus 75 Bps: Money Market <100M
+                - MMNRC: National Rate Cap: Money Market <100M
+                - MMTY: Treasury Yield: Money Market <100M
+                - MMTYRCA: Treasury Yield: Rate Cap Adjusted: Money Market <100M
+                - NDR12MCD: National Rate: 12 Month CD <100M
+                - NDR1MCD: National Rate: 1 Month CD <100M
+                - NDR24MCD: National Rate: 24 Month CD <100M
+                - NDR36MCD: National Rate: 36 Month CD <100M
+                - NDR3MCD: National Rate: 3 Month CD <100M
+                - NDR48MCD: National Rate: 48 Month CD <100M
+                - NDR60MCD: National Rate: 60 Month CD <100M
+                - NDR6MCD: National Rate: 6 Month CD <100M
+                - NDRRCA12MCD: National Rate Plus 75 Bps: 12 Month CD <100M
+                - NDRRCA1MCD: National Rate Plus 75 Bps: 1 Month CD <100M
+                - NDRRCA24MCD: National Rate Plus 75 Bps: 24 Month CD <100M
+                - NDRRCA36MCD: National Rate Plus 75 Bps: 36 Month CD <100M
+                - NDRRCA60MCD: National Rate Plus 75 Bps: 60 Month CD <100M
+                - NDRRCA6MCD: National Rate Plus 75 Bps: 6 Month CD <100M
+                - NDRRCACD: National Rate Plus 75 Bps: 3 Month CD <100M
+                - NDRRCP48MCD: National Rate Plus 75 Bps: 48 Month CD <100M
+                - NRC12MCD: National Rate Cap: 12 Month CD <100M
+                - NRC1MCD: National Rate Cap: 1 Month CD <100M
+                - NRC24MCD: National Rate Cap: 24 Month CD <100M
+                - NRC26MCD: National Rate Cap: 36 Month CD <100M
+                - NRC3MCD: National Rate Cap: 3 Month CD <100M
+                - NRC48MCD: National Rate Cap: 48 Month CD <100M
+                - NRC60MCD: National Rate Cap: 60 Month CD <100M
+                - NRC6MCD: National Rate Cap: 6 Month CD <100M
+                - SNDR: National Rate: Savings
+                - SNDRRCA: National Rate Plus 75 Bps: Savings
+                - SNRC: National Rate Cap: Savings
+                - STY: Treasury Yield: Savings
+                - STYRCA: Treasury Yield: Rate Cap Adjusted: Savings
+                - TY12MCD: Treasury Yield: 12 Month CD <100M
+                - TY1MCD: Treasury Yield: 1 Month CD <100M
+                - TY24MCD: Treasury Yield: 24 Month CD <100M
+                - TY36MCD: Treasury Yield: 36 Month CD <100M
+                - TY3MCD: Treasury Yield: 3 Month CD <100M
+                - TY60MCD: Treasury Yield: 60 Month CD <100M
+                - TY6MCD: Treasury Yield: 6 Month CD <100M
+                - TYRCA12MCD: Treasury Yield: Rate Cap Adjusted: 12 Month CD <100M
+                - TYRCA1MCD: Treasury Yield: Rate Cap Adjusted: 1 Month CD <100M
+                - TYRCA24MCD: Treasury Yield: Rate Cap Adjusted: 24 Month CD <100M
+                - TYRCA36MCD: Treasury Yield: Rate Cap Adjusted: 36 Month CD <100M
+                - TYRCA3MCD: Treasury Yield: Rate Cap Adjusted: 3 Month CD <100M
+                - TYRCA60MCD: Treasury Yield: Rate Cap Adjusted: 60 Month CD <100M
+                - TYRCA6MCD: Treasury Yield: Rate Cap Adjusted: 6 Month CD <100M
+        Category: SONIA Rates
+            Series (excluding DISCONTINUED):
+                - IUDSOIA: Daily Sterling Overnight Index Average (SONIA) Rate
+                - IUDZLS6: Daily Sterling Overnight Index Average (SONIA) Rate: 10th percentile
+                - IUDZLS7: Daily Sterling Overnight Index Average (SONIA) Rate: 25th percentile
+                - IUDZLS8: Daily Sterling Overnight Index Average (SONIA) Rate: 75th percentile
+                - IUDZLS9: Daily Sterling Overnight Index Average (SONIA) Rate: 90th percentile
+                - IUDZLT2: Daily Sterling Overnight Index Average (SONIA) Rate Total Nominal Value
+                - IUDZOS2: SONIA Compounded Index
+        Category: Treasury Bills
+            Series (excluding DISCONTINUED):
+                - DTB1YR: 1-Year Treasury Bill Secondary Market Rate, Discount Basis
+                - DTB3: 3-Month Treasury Bill Secondary Market Rate, Discount Basis
+                - DTB4WK: 4-Week Treasury Bill Secondary Market Rate, Discount Basis
+                - DTB6: 6-Month Treasury Bill Secondary Market Rate, Discount Basis
+                - RIFSGFSM03NA: 3-Month Treasury Bill Secondary Market Rate, Discount Basis
+                - RIFSGFSM06NA: 6-Month Treasury Bill Secondary Market Rate, Discount Basis
+                - RIFSGFSW04NA: 4-Week Treasury Bill Secondary Market Rate, Discount Basis
+                - RIFSGFSY01NA: 1-Year Treasury Bill Secondary Market Rate, Discount Basis
+                - TB1YR: 1-Year Treasury Bill Secondary Market Rate, Discount Basis
+                - TB3MS: 3-Month Treasury Bill Secondary Market Rate, Discount Basis
+                - TB4WK: 4-Week Treasury Bill Secondary Market Rate, Discount Basis
+                - TB6MS: 6-Month Treasury Bill Secondary Market Rate, Discount Basis
+                - WTB1YR: 1-Year Treasury Bill Secondary Market Rate, Discount Basis
+                - WTB3MS: 3-Month Treasury Bill Secondary Market Rate, Discount Basis
+                - WTB4WK: 4-Week Treasury Bill Secondary Market Rate, Discount Basis
+                - WTB6MS: 6-Month Treasury Bill Secondary Market Rate, Discount Basis
+        Category: Treasury Constant Maturity
+            Series (excluding DISCONTINUED):
+                - DFII10: Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - DFII20: Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - DFII30: Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - DFII5: Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - DFII7: Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - DGS1: Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis
+                - DGS10: Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis
+                - DGS1MO: Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis
+                - DGS2: Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis
+                - DGS20: Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis
+                - DGS3: Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis
+                - DGS30: Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis
+                - DGS3MO: Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis
+                - DGS5: Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis
+                - DGS6MO: Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis
+                - DGS7: Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis
+                - FII10: Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - FII20: Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - FII30: Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - FII5: Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - FII7: Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - GS1: Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis
+                - GS10: Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis
+                - GS1M: Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis
+                - GS2: Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis
+                - GS20: Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis
+                - GS3: Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis
+                - GS30: Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis
+                - GS3M: Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis
+                - GS5: Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis
+                - GS6M: Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis
+                - GS7: Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis
+                - RIFLGFCM01NA: Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis
+                - RIFLGFCM03NA: Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis
+                - RIFLGFCM06NA: Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis
+                - RIFLGFCY01NA: Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis
+                - RIFLGFCY02NA: Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis
+                - RIFLGFCY03NA: Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis
+                - RIFLGFCY05NA: Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis
+                - RIFLGFCY07NA: Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis
+                - RIFLGFCY10NA: Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis
+                - RIFLGFCY20NA: Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis
+                - RIFLGFCY30NA: Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis
+                - WFII10: Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - WFII20: Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - WFII30: Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - WFII5: Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - WFII7: Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - WGS10YR: Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis
+                - WGS1MO: Market Yield on U.S. Treasury Securities at 1-Month Constant Maturity, Quoted on an Investment Basis
+                - WGS1YR: Market Yield on U.S. Treasury Securities at 1-Year Constant Maturity, Quoted on an Investment Basis
+                - WGS20YR: Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis
+                - WGS2YR: Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity, Quoted on an Investment Basis
+                - WGS30YR: Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis
+                - WGS3MO: Market Yield on U.S. Treasury Securities at 3-Month Constant Maturity, Quoted on an Investment Basis
+                - WGS3YR: Market Yield on U.S. Treasury Securities at 3-Year Constant Maturity, Quoted on an Investment Basis
+                - WGS5YR: Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis
+                - WGS6MO: Market Yield on U.S. Treasury Securities at 6-Month Constant Maturity, Quoted on an Investment Basis
+                - WGS7YR: Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis
+        Category: Treasury Inflation-Indexed Securities
+            Series (excluding DISCONTINUED):
+                - DFII10: Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - DFII20: Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - DFII30: Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - DFII5: Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - DFII7: Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - DLTIIT: Treasury Long-Term Average (Over 10 Years), Inflation-Indexed
+                - DTP10J25: 10-Year 0-1/4% Treasury Inflation-Indexed Note, Due 1/15/2025
+                - DTP10J26: 10-Year 0.625% Treasury Inflation-Indexed Note, Due 1/15/2026
+                - DTP10J27: 10-Year 0.375 Treasury Inflation-Indexed Note, Due 1/15/2027
+                - DTP10J28: 10-Year 0.5% Treasury Inflation-Indexed Note, Due 1/15/2028
+                - DTP10J29: 10-Year 0.875% Treasury Inflation-Indexed Note, Due 1/15/2029
+                - DTP10J30: 10-Year 0.125% Treasury Inflation-Indexed Bond, Due 01/15/2030
+                - DTP10L25: 10-Year 0.375% Treasury Inflation-Indexed Note, Due 07/15/2025
+                - DTP10L26: 10-Year 0-1/8% Treasury Inflation-Indexed Note, Due 7/15/2026
+                - DTP10L27: 10-Year 0.375% Treasury Inflation-Indexed Note, Due 7/15/2027
+                - DTP10L28: 10-Year 0.75% Treasury Inflation-Indexed Note, Due 7/15/2028
+                - DTP10L29: 10-Year 0.25% Treasury Inflation-Indexed Note, Due 7/15/2029
+                - DTP20J25: 20-Year 2-3/8% Treasury Inflation-Indexed Bond, Due 1/15/2025
+                - DTP20J26: 20-Year 2% Treasury Inflation-Indexed Bond, Due 1/15/2026
+                - DTP20J27: 20-Year 2-3/8% Treasury Inflation-Indexed Bond, Due 1/15/2027
+                - DTP20J28: 20-Year 1-3/4% Treasury Inflation-Indexed Bond, Due 1/15/2028
+                - DTP20J29: 20-Year 2-1/2% Treasury Inflation-Indexed Bond, Due 1/15/2029
+                - DTP30A28: 30-Year 3-5/8% Treasury Inflation-Indexed Bond, Due 4/15/2028
+                - DTP30A29: 30-Year 3-7/8% Treasury Inflation-Indexed Bond, Due 4/15/2029
+                - DTP30F40: 30-Year 2-1/8% Treasury Inflation-Indexed Bond, Due 2/15/2040
+                - DTP30F41: 30-Year 2-1/8% Treasury Inflation-Indexed Bond, Due 2/15/2041
+                - DTP30F42: 30-Year 0-3/4% Treasury Inflation-Indexed Bond, Due 2/15/2042
+                - DTP30F43: 30-Year 0-5/8% Treasury Inflation-Indexed Bond, Due 2/15/2043
+                - DTP30F44: 30-Year 1-3/8% Treasury Inflation-Indexed Note, Due 2/15/2044
+                - DTP30F45: 30-Year 0-3/4% Treasury Inflation-Indexed Bond, Due 2/15/2045
+                - DTP30F46: 30-Year 1.0% Treasury Inflation-Indexed Bond, Due 2/15/2046
+                - DTP30F47: 30-Year 0.875% Treasury Inflation-Indexed Bond, Due 2/15/2047
+                - DTP30F48: 30-Year 1.0% Treasury Inflation-Indexed Bond, Due 2/15/2048
+                - DTP30F49: 30-Year 1.0% Treasury Inflation-Indexed Bond, Due 2/15/2049
+                - DTP30F50: 30-Year 0.250% Treasury Inflation-Indexed Bond, Due 02/15/2050
+                - DTP3HA32: 30-1/2-Year 3-3/8% Treasury Inflation-Indexed Bond, Due 4/15/2032
+                - DTP5A25: 5-Year 0.125% Treasury Inflation-Indexed Bond, Due 4/15/2025
+                - FII10: Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - FII20: Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - FII30: Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - FII5: Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - FII7: Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - LTIIT: Treasury Long-Term Average (Over 10 Years), Inflation-Indexed
+                - RIFLGFCY05XIINA: Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - RIFLGFCY07XIINA: Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - RIFLGFCY10XIINA: Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - RIFLGFCY20XIINA: Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - RIFLGFCY30XIINA: Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - RIFLGFLXIINA: Treasury Long-Term Average (Over 10 Years), Inflation-Indexed
+                - WFII10: Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - WFII20: Market Yield on U.S. Treasury Securities at 20-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - WFII30: Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - WFII5: Market Yield on U.S. Treasury Securities at 5-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - WFII7: Market Yield on U.S. Treasury Securities at 7-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed
+                - WLTIIT: Treasury Long-Term Average (Over 10 Years), Inflation-Indexed
+    Category: Exchange Rates
+        Category: Daily Rates
+            Series (excluding DISCONTINUED):
+                - DEXBZUS: Brazilian Reals to U.S. Dollar Spot Exchange Rate
+                - DEXCAUS: Canadian Dollars to U.S. Dollar Spot Exchange Rate
+                - DEXCHUS: Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate
+                - DEXDNUS: Danish Kroner to U.S. Dollar Spot Exchange Rate
+                - DEXHKUS: Hong Kong Dollars to U.S. Dollar Spot Exchange Rate
+                - DEXINUS: Indian Rupees to U.S. Dollar Spot Exchange Rate
+                - DEXJPUS: Japanese Yen to U.S. Dollar Spot Exchange Rate
+                - DEXKOUS: South Korean Won to U.S. Dollar Spot Exchange Rate
+                - DEXMAUS: Malaysian Ringgit to U.S. Dollar Spot Exchange Rate
+                - DEXMXUS: Mexican Pesos to U.S. Dollar Spot Exchange Rate
+                - DEXNOUS: Norwegian Kroner to U.S. Dollar Spot Exchange Rate
+                - DEXSDUS: Swedish Kronor to U.S. Dollar Spot Exchange Rate
+                - DEXSFUS: South African Rand to U.S. Dollar Spot Exchange Rate
+                - DEXSIUS: Singapore Dollars to U.S. Dollar Spot Exchange Rate
+                - DEXSLUS: Sri Lankan Rupees to U.S. Dollar Spot Exchange Rate
+                - DEXSZUS: Swiss Francs to U.S. Dollar Spot Exchange Rate
+                - DEXTAUS: Taiwan Dollars to U.S. Dollar Spot Exchange Rate
+                - DEXTHUS: Thai Baht to U.S. Dollar Spot Exchange Rate
+                - DEXUSAL: U.S. Dollars to Australian Dollar Spot Exchange Rate
+                - DEXUSEU: U.S. Dollars to Euro Spot Exchange Rate
+                - DEXUSNZ: U.S. Dollars to New Zealand Dollar Spot Exchange Rate
+                - DEXUSUK: U.S. Dollars to U.K. Pound Sterling Spot Exchange Rate
+                - DEXVZUS: Venezuelan Bolivares to U.S. Dollar Spot Exchange Rate
+                - DTWEXAFEGS: Nominal Advanced Foreign Economies U.S. Dollar Index
+                - DTWEXBGS: Nominal Broad U.S. Dollar Index
+                - DTWEXEMEGS: Nominal Emerging Market Economies U.S. Dollar Index
+                - TWEXAFEGSANL: Nominal Advanced Foreign Economies U.S. Dollar Index
+                - TWEXAFEGSMTH: Nominal Advanced Foreign Economies U.S. Dollar Index
+                - TWEXBGSANL: Nominal Broad U.S. Dollar Index
+                - TWEXBGSMTH: Nominal Broad U.S. Dollar Index
+                - TWEXEMEGSANL: Nominal Emerging Market Economies U.S. Dollar Index
+                - TWEXEMEGSMTH: Nominal Emerging Market Economies U.S. Dollar Index
+        Category: Monthly Rates
+            Series (excluding DISCONTINUED):
+                - EXBZUS: Brazilian Reals to U.S. Dollar Spot Exchange Rate
+                - EXCAUS: Canadian Dollars to U.S. Dollar Spot Exchange Rate
+                - EXCHUS: Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate
+                - EXDNUS: Danish Kroner to U.S. Dollar Spot Exchange Rate
+                - EXHKUS: Hong Kong Dollars to U.S. Dollar Spot Exchange Rate
+                - EXINUS: Indian Rupees to U.S. Dollar Spot Exchange Rate
+                - EXJPUS: Japanese Yen to U.S. Dollar Spot Exchange Rate
+                - EXKOUS: South Korean Won to U.S. Dollar Spot Exchange Rate
+                - EXMAUS: Malaysian Ringgit to U.S. Dollar Spot Exchange Rate
+                - EXMXUS: Mexican Pesos to U.S. Dollar Spot Exchange Rate
+                - EXNOUS: Norwegian Kroner to U.S. Dollar Spot Exchange Rate
+                - EXSDUS: Swedish Kronor to U.S. Dollar Spot Exchange Rate
+                - EXSFUS: South African Rand to U.S. Dollar Spot Exchange Rate
+                - EXSIUS: Singapore Dollars to U.S. Dollar Spot Exchange Rate
+                - EXSLUS: Sri Lankan Rupees to U.S. Dollar Spot Exchange Rate
+                - EXSZUS: Swiss Francs to U.S. Dollar Spot Exchange Rate
+                - EXTAUS: Taiwan Dollars to U.S. Dollar Spot Exchange Rate
+                - EXTHUS: Thai Baht to U.S. Dollar Spot Exchange Rate
+                - EXUSAL: U.S. Dollars to Australian Dollar Spot Exchange Rate
+                - EXUSEU: U.S. Dollars to Euro Spot Exchange Rate
+                - EXUSNZ: U.S. Dollars to New Zealand Dollar Spot Exchange Rate
+                - EXUSUK: U.S. Dollars to U.K. Pound Sterling Spot Exchange Rate
+                - EXVZUS: Venezuelan Bolivares to U.S. Dollar Spot Exchange Rate
+        Category: Annual Rates
+            Series (excluding DISCONTINUED):
+                - AEXBZUS: Brazilian Reals to U.S. Dollar Spot Exchange Rate
+                - AEXCAUS: Canadian Dollars to U.S. Dollar Spot Exchange Rate
+                - AEXCHUS: Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate
+                - AEXDNUS: Danish Kroner to U.S. Dollar Spot Exchange Rate
+                - AEXHKUS: Hong Kong Dollars to U.S. Dollar Spot Exchange Rate
+                - AEXINUS: Indian Rupees to U.S. Dollar Spot Exchange Rate
+                - AEXJPUS: Japanese Yen to U.S. Dollar Spot Exchange Rate
+                - AEXKOUS: South Korean Won to U.S. Dollar Spot Exchange Rate
+                - AEXMAUS: Malaysian Ringgit to U.S. Dollar Spot Exchange Rate
+                - AEXMXUS: Mexican Pesos to U.S. Dollar Spot Exchange Rate
+                - AEXNOUS: Norwegian Kroner to U.S. Dollar Spot Exchange Rate
+                - AEXSDUS: Swedish Kronor to U.S. Dollar Spot Exchange Rate
+                - AEXSFUS: South African Rand to U.S. Dollar Spot Exchange Rate
+                - AEXSIUS: Singapore Dollars to U.S. Dollar Spot Exchange Rate
+                - AEXSLUS: Sri Lankan Rupees to U.S. Dollar Spot Exchange Rate
+                - AEXSZUS: Swiss Francs to U.S. Dollar Spot Exchange Rate
+                - AEXTAUS: Taiwan Dollars to U.S. Dollar Spot Exchange Rate
+                - AEXTHUS: Thai Baht to U.S. Dollar Spot Exchange Rate
+                - AEXUSAL: U.S. Dollars to Australian Dollar Spot Exchange Rate
+                - AEXUSEU: U.S. Dollars to Euro Spot Exchange Rate
+                - AEXUSNZ: U.S. Dollars to New Zealand Dollar Spot Exchange Rate
+                - AEXUSUK: U.S. Dollars to U.K. Pound Sterling Spot Exchange Rate
+                - AEXVZUS: Venezuelan Bolivares to U.S. Dollar Spot Exchange Rate
+        Category: Trade-Weighted Indexes
+            Series (excluding DISCONTINUED):
+                - DTWEXAFEGS: Nominal Advanced Foreign Economies U.S. Dollar Index
+                - DTWEXBGS: Nominal Broad U.S. Dollar Index
+                - DTWEXEMEGS: Nominal Emerging Market Economies U.S. Dollar Index
+                - RTWEXAFEGS: Real Advanced Foreign Economies Dollar Index
+                - RTWEXBGS: Real Broad Dollar Index
+                - RTWEXEMEGS: Real Emerging Market Economies Dollar Index
+                - TWEXAFEGSANL: Nominal Advanced Foreign Economies U.S. Dollar Index
+                - TWEXAFEGSMTH: Nominal Advanced Foreign Economies U.S. Dollar Index
+                - TWEXBGSANL: Nominal Broad U.S. Dollar Index
+                - TWEXBGSMTH: Nominal Broad U.S. Dollar Index
+                - TWEXEMEGSANL: Nominal Emerging Market Economies U.S. Dollar Index
+                - TWEXEMEGSMTH: Nominal Emerging Market Economies U.S. Dollar Index
+        Category: By Country
+            Category: Australia
+                Series (excluding DISCONTINUED):
+                    - AEXUSAL: U.S. Dollars to Australian Dollar Spot Exchange Rate
+                    - DEXUSAL: U.S. Dollars to Australian Dollar Spot Exchange Rate
+                    - EXUSAL: U.S. Dollars to Australian Dollar Spot Exchange Rate
+            Category: Austria
+                Series (excluding DISCONTINUED):
+            Category: Belgium
+                Series (excluding DISCONTINUED):
+            Category: Brazil
+                Series (excluding DISCONTINUED):
+                    - AEXBZUS: Brazilian Reals to U.S. Dollar Spot Exchange Rate
+                    - DEXBZUS: Brazilian Reals to U.S. Dollar Spot Exchange Rate
+                    - EXBZUS: Brazilian Reals to U.S. Dollar Spot Exchange Rate
+            Category: Canada
+                Series (excluding DISCONTINUED):
+                    - AEXCAUS: Canadian Dollars to U.S. Dollar Spot Exchange Rate
+                    - DEXCAUS: Canadian Dollars to U.S. Dollar Spot Exchange Rate
+                    - EXCAUS: Canadian Dollars to U.S. Dollar Spot Exchange Rate
+            Category: China
+                Series (excluding DISCONTINUED):
+                    - AEXCHUS: Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate
+                    - DEXCHUS: Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate
+                    - EXCHUS: Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate
+            Category: Denmark
+                Series (excluding DISCONTINUED):
+                    - AEXDNUS: Danish Kroner to U.S. Dollar Spot Exchange Rate
+                    - DEXDNUS: Danish Kroner to U.S. Dollar Spot Exchange Rate
+                    - EXDNUS: Danish Kroner to U.S. Dollar Spot Exchange Rate
+            Category: Euro
+                Series (excluding DISCONTINUED):
+                    - AEXUSEU: U.S. Dollars to Euro Spot Exchange Rate
+                    - DEXUSEU: U.S. Dollars to Euro Spot Exchange Rate
+                    - EXUSEU: U.S. Dollars to Euro Spot Exchange Rate
+            Category: Finland
+                Series (excluding DISCONTINUED):
+            Category: France
+                Series (excluding DISCONTINUED):
+            Category: Germany
+                Series (excluding DISCONTINUED):
+            Category: Greece
+                Series (excluding DISCONTINUED):
+            Category: Hong Kong
+                Series (excluding DISCONTINUED):
+                    - AEXHKUS: Hong Kong Dollars to U.S. Dollar Spot Exchange Rate
+                    - DEXHKUS: Hong Kong Dollars to U.S. Dollar Spot Exchange Rate
+                    - EXHKUS: Hong Kong Dollars to U.S. Dollar Spot Exchange Rate
+            Category: India
+                Series (excluding DISCONTINUED):
+                    - AEXINUS: Indian Rupees to U.S. Dollar Spot Exchange Rate
+                    - DEXINUS: Indian Rupees to U.S. Dollar Spot Exchange Rate
+                    - EXINUS: Indian Rupees to U.S. Dollar Spot Exchange Rate
+            Category: Ireland
+                Series (excluding DISCONTINUED):
+            Category: Italy
+                Series (excluding DISCONTINUED):
+            Category: Japan
+                Series (excluding DISCONTINUED):
+                    - AEXJPUS: Japanese Yen to U.S. Dollar Spot Exchange Rate
+                    - DEXJPUS: Japanese Yen to U.S. Dollar Spot Exchange Rate
+                    - EXJPUS: Japanese Yen to U.S. Dollar Spot Exchange Rate
+            Category: Malaysia
+                Series (excluding DISCONTINUED):
+                    - AEXMAUS: Malaysian Ringgit to U.S. Dollar Spot Exchange Rate
+                    - DEXMAUS: Malaysian Ringgit to U.S. Dollar Spot Exchange Rate
+                    - EXMAUS: Malaysian Ringgit to U.S. Dollar Spot Exchange Rate
+            Category: Mexico
+                Series (excluding DISCONTINUED):
+                    - AEXMXUS: Mexican Pesos to U.S. Dollar Spot Exchange Rate
+                    - DEXMXUS: Mexican Pesos to U.S. Dollar Spot Exchange Rate
+                    - EXMXUS: Mexican Pesos to U.S. Dollar Spot Exchange Rate
+            Category: Netherlands
+                Series (excluding DISCONTINUED):
+            Category: New Zealand
+                Series (excluding DISCONTINUED):
+                    - AEXUSNZ: U.S. Dollars to New Zealand Dollar Spot Exchange Rate
+                    - DEXUSNZ: U.S. Dollars to New Zealand Dollar Spot Exchange Rate
+                    - EXUSNZ: U.S. Dollars to New Zealand Dollar Spot Exchange Rate
+            Category: Norway
+                Series (excluding DISCONTINUED):
+                    - AEXNOUS: Norwegian Kroner to U.S. Dollar Spot Exchange Rate
+                    - DEXNOUS: Norwegian Kroner to U.S. Dollar Spot Exchange Rate
+                    - EXNOUS: Norwegian Kroner to U.S. Dollar Spot Exchange Rate
+            Category: Portugal
+                Series (excluding DISCONTINUED):
+            Category: Singapore
+                Series (excluding DISCONTINUED):
+                    - AEXSIUS: Singapore Dollars to U.S. Dollar Spot Exchange Rate
+                    - DEXSIUS: Singapore Dollars to U.S. Dollar Spot Exchange Rate
+                    - EXSIUS: Singapore Dollars to U.S. Dollar Spot Exchange Rate
+            Category: South Africa
+                Series (excluding DISCONTINUED):
+                    - AEXSFUS: South African Rand to U.S. Dollar Spot Exchange Rate
+                    - DEXSFUS: South African Rand to U.S. Dollar Spot Exchange Rate
+                    - EXSFUS: South African Rand to U.S. Dollar Spot Exchange Rate
+            Category: South Korea
+                Series (excluding DISCONTINUED):
+                    - AEXKOUS: South Korean Won to U.S. Dollar Spot Exchange Rate
+                    - DEXKOUS: South Korean Won to U.S. Dollar Spot Exchange Rate
+                    - EXKOUS: South Korean Won to U.S. Dollar Spot Exchange Rate
+            Category: Spain
+                Series (excluding DISCONTINUED):
+            Category: Sri Lanka
+            Category: Sweden
+            Category: Switzerland
+            Category: Taiwan
+            Category: Thailand
+            Category: United Kingdom
+            Category: Venezuela
+    Category: Monetary Data
+    Category: Financial Indicators
+    Category: Banking
+    Category: Business Lending
+    Category: Foreign Exchange Intervention
+Category: Population, Employment, & Labor Markets
+Category: National Accounts
+Category: Production & Business Activity
+Category: Prices
+Category: International Data
+Category: U.S. Regional Data
+Category: Academic Data
