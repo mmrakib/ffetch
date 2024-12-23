@@ -18,10 +18,19 @@ class Fred:
     async def __fetch_data(self, endpoint: str, params: dict) -> dict:
         url = f"{self.base_url}/{endpoint}?{urlencode(params)}"
 
-        async with self.session.get(url) as response:
-            data = await response.json()
+        try:
+            async with self.session.get(url) as response:
+                if response.status != 200:
+                    raise ValueError(f"Error fetching data: {response.status}")
+                
+                data = await response.json()
+                if "error_code" in data:
+                    raise ValueError(f"API error: {data['error_message']}")
 
-        return data
+                return data
+        except Exception as e:
+            print(f"Request failed: {e}")
+            return {}
 
     async def __get_series_metadata(self, series_id: str) -> dict:
         endpoint = "series"
@@ -31,9 +40,7 @@ class Fred:
             "file_type": "json"
         }
 
-        data = await self.__fetch_data(endpoint, params)
-        
-        return data
+        return await self.__fetch_data(endpoint, params)
 
     async def __get_series_observations(self, series_id: str) -> dict:
         endpoint = "series/observations"
@@ -43,13 +50,14 @@ class Fred:
             "file_type": "json"
         }
 
-        data = await self.__fetch_data(endpoint, params)
-
-        return data
+        return await self.__fetch_data(endpoint, params)
 
     async def __get_series(self, series_id: str) -> pd.DataFrame:
         metadata = await self.__get_series_metadata(series_id)
         series = await self.__get_series_observations(series_id)
+
+        if not metadata or not series:
+            return pd.DataFrame()
 
         title = metadata["seriess"][0]["title"]
         frequency = metadata["seriess"][0]["frequency"]
@@ -66,57 +74,45 @@ class Fred:
         return df
 
     async def get_gdp(self):
-        series = await self.__get_series("GDP")
-
-        return series
+        return await self.__get_series("GDP")
 
     async def get_cpi(self):
-        series = await self.__get_series("CPIA")
-
-        return series
+        return await self.__get_series("CPIA")
 
     async def get_unemployment_rate(self):
-        series = await self.__get_series("UNRATE")
-
-        return series
+        return await self.__get_series("UNRATE")
 
     async def get_interest_rate(self):
-        series = await self.__get_series("FEDFUNDS")
-
-        return series
+        return await self.__get_series("FEDFUNDS")
 
     async def get_trade_balance(self):
-        series = await self.__get_series("NETEXP")
-
-        return series
+        return await self.__get_series("NETEXP")
 
     async def get_employment(self):
-        series = await self.__get_series("PAYEMS")
-
-        return series
+        return await self.__get_series("PAYEMS")
 
     async def get_pce(self):
-        series = await self.__get_series("PCE")
-
-        return series
+        return await self.__get_series("PCE")
 
     async def get_house_price_index(self):
-        series = await self.__get_series("SPCS10R")
+        return await self.__get_series("SPCS10R")
         
-        return series
-
     async def get_wages(self):
-        series = await self.__get_series("CES3000000001")
-
-        return series
+        return await self.__get_series("CES3000000001")
 
 async def main():
     pd.set_option('display.float_format', '{:.10f}'.format)
 
     async with aiohttp.ClientSession() as session:
         fred = Fred(session)
-        df = await fred.get_gdp()
-        print(df)
+        
+        gdp_df = await fred.get_gdp()
+        if not gdp_df.empty:
+            print("GDP Data:\n", gdp_df.head())
+        
+        cpi_df = await fred.get_cpi()
+        if not cpi_df.empty:
+            print("CPI Data:\n", cpi_df.head())
 
 if __name__ == '__main__':
     asyncio.run(main())
