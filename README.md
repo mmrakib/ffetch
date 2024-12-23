@@ -4,7 +4,7 @@ The following is a list of all data sources supported or where support is in dev
 
 | Name | URL | Cost | API Key Required? | Environment Variable |
 | --- | --- | --- | --- | --- |
-| World Bank Open Data | [databank.worldbank.org](https://databank.worldbank.org) | Free. | Yes. | WORLD_BANK_API_KEY |
+| World Bank Open Data | [databank.worldbank.org](https://databank.worldbank.org) | Free. | Yes. | WB_API_KEY |
 | International Monetary Fund (IMF) | [imf.org](https://imf.org) | Free. | Yes. | IMF_API_KEY |
 | OECD | [oecd.org](https://oecd.org) | Free. | Yes. | OECD_API_KEY |
 | United Nations Statistics Division (UNSD) | [unstats.un.org](https://unstats.un.org) | Free. | No. | |
@@ -18,4 +18,4 @@ The following is a list of all data sources supported or where support is in dev
 | Australian Prudential Regulation Authority (APRA) | [apra.gov.au](https://apra.gov.au) | Free. | No. | |
 | Australian Securities and Investment Commission (ASIC) | [asic.gov.au](https://asic.gov.au) | Free. | No. | |
 | European Central Bank (ECB) | [data.ecb.europa.eu](https://data.ecb.europa.eu) | Free. | Yes. | ECB_API_KEY |
-| Eurostat | [ec.europa.eu](https://ec.europa.eu) | Free. | Yes. | EUROSTAT_API_KEY |
+| Eurostat | [ec.europa.eu](https://ec.europa.eu) | Free. | Yes. | ES_API_KEY |
