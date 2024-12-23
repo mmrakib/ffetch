@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "ffetch"
 version = "0.1.0"
-description = "A tool for fetching/parsing financial, economic and geographical data from various sources."
+description = "A tool for fetching/parsing financial and economic data from various sources."
 authors = ["Mayaz Rakib <mayaz@rakib.com.au>"]
 readme = "README.md"
 
